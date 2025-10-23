@@ -1,4 +1,4 @@
-package de.silencio.nojoinleavemessage.mixin;
+package de.coinflipcoder.nojoinleavemessage.mixin;
 
 import net.minecraft.server.PlayerManager;
 import net.minecraft.text.Text;
